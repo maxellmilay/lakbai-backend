@@ -72,3 +72,4 @@ coverage.xml
 
 # Google Cloud
 key.json
+celerybeat-schedule.db
